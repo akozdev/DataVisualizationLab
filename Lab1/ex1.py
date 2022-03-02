@@ -3,8 +3,6 @@
 import math
 
 # String
-from uuid import bytes_
-
 string_a = 'Hello'
 string_b = 'Hi'
 
